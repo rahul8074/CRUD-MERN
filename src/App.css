@@ -1,0 +1,55 @@
+ form{
+     max-width: 350px;
+     margin: auto;
+     margin-top: 10px;
+     border: 1px solid lightgray;
+     padding: 10px 30px;
+     font-family: monospace;
+ }
+ .form-group{
+     font-family: monospace;
+ }
+ h1{
+     text-align: center;
+     color: lightgray;
+ }
+
+ .sign-in-page{
+     margin-top: 100px;
+ }
+table{
+    margin: 20px auto;
+    border: 1px solid lightgray;
+     
+}
+ 
+td{
+    padding:10px;
+    line-height: 50px;
+}
+
+#action{
+    padding-top: 60px;
+    max-width:90px ;
+}
+#action button{
+    color: red;
+    line-height: normal;
+ 
+}
+
+.table-row td{
+    color: black;
+    font-size: 17px;
+    font-weight: 2000;
+    font-family: cursive;
+     
+}
+
+.table-row tr{
+    color: purple;
+    padding:100px 0px ;
+}
+
+
+ 
